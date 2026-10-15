@@ -9,6 +9,7 @@ Under Semantic Versioning, the government AI assistants public API follows the f
 
 Resource: Semantic Versioning 2.0.0 - https://semver.org/
 
+
 ## AI
 Retrieval-Augmented Generation (RAG) is an AI method of collecting useful information from reliable sources prior to providing an answer. This mechanism cuts down on the chances of giving wrong responses by verifying the answers given via the correct and latest documents instead of using only the internal knowledge of the model. So, in the case of the government assistant, RAG could fetch the real service requirements before giving replies to people inquiries.
 
@@ -22,10 +23,22 @@ Resource: iOS App Transport Security (ATS) and its exceptions - https://ptkd.com
 
 
 ## Networking
+IPv4 employs addresses made up of 32 bits which results in about 4.3 billion usable addresses. However, IPv6 utilizes 128-bit addresses, which guarantees a larger number of addresses available. So, with increasing of users there are need for a larger address space. IPv6 allows for support of multiple devices while improving network scalability and the necessity for Network Address Translation (NAT) is reduced. Also, IPv6 gives a good solution for the development of digital government services in the long run. 
+
+Resource: Difference Between IPv4 and IPv6 - https://www.geeksforgeeks.org/computer-networks/differences-between-ipv4-and-ipv6/
+
 
 ## Cybersecurity
+Prompt injection is a kind of attack that helps alter the AI system to either act contrary to its instructions or make unintended moves. In the case of direct injection, people supply malicious prompts, while in the case of indirect attacks, malicious remarks are hidden away in the external content. There are two approaches to risk reduction here, completely validating inputs and treating retrieved documents as untrustworthy materials. 
+
+Resource: How direct and indirect prompt injection differ in practice - https://nhimg.org/faq/what-is-the-difference-between-indirect-prompt-injection-and-direct-prompt-injec/
+
 
 ## Data
+Anonymization is the process of removing identifiable information so that it cannot be reasonably linked back to the individual. Pseudonymization is the process of replacing identifiable information with fictitious data which can still be linked to a person with additional information. As well, anonymized information is not covered by certain data protection laws including the GDPR, while pseudonymized information is still protected. Therefore, anonymization offers better protection of privacy of chat logs. 
+
+Resource: Pseudonymization vs Anonymization: Key Differences, GDPR Implications, and Which to Use - https://dualitytech.com/blog/pseudonymization-vs-anonymization/
+
 
 ## Misconception in My Track
 
