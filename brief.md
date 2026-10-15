@@ -41,5 +41,10 @@ Resource: Pseudonymization vs Anonymization: Key Differences, GDPR Implications,
 
 
 ## Misconception in My Track
+The first misconception about networks is that by increasing the bandwidth, you automatically improve the internet speed and performance problems. However, performance in the network environment depends not only on the bandwidth but also on the latency. The term “bandwidth” means how much data is transferred per second, and the term “latency” means the time of transferring data from one place to another.  For that, high latency can cause the problem of performance even with high bandwidth.
+
+Resource: What is latency? | How to fix latency- https://www.cloudflare.com/en-gb/learning/performance/glossary/what-is-latency/
+
 
 ## Open Question
+How can electronics and communications engineers leverage their understanding of networking to enhance communication between the government mobile applications and the server? I would like to analyze how dual stack networking could help in ensuring secure communication during this transition process and what problems administrators might face in configuring networks.
